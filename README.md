@@ -13,18 +13,5 @@ Any changes you make to your deployed app will be automatically pushed to this r
 ## Deployment
 
 Your project is live at:
+https://v0-weather-dashboard-amans-projects-171aec8b.vercel.app/
 
-**[https://vercel.com/amans-projects-171aec8b/v0-weather-dashboard](https://vercel.com/amans-projects-171aec8b/v0-weather-dashboard)**
-
-## Build your app
-
-Continue building your app on:
-
-**[https://v0.dev/chat/projects/ZDzX8eEXIa6](https://v0.dev/chat/projects/ZDzX8eEXIa6)**
-
-## How It Works
-
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
